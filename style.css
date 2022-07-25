@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+#heading{
+      word-spacing: 10px;
+      font-variant: small-caps;
+      text-align: center;
+      font-size: 80px;
+      font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+#image{
+    border-style: solid;
+    border-color: black;
+    border: 1px;
+    border-radius: 80px;
+}
+ #family_name{
+    font-size: 32px;
+ }
